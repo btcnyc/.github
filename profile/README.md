@@ -11,6 +11,12 @@
 
 ---
 
+### 🌐 Websites
+- [Main Site](https://btcnyc.github.io)
+- [Classes Hub](https://btcnyc.github.io/classes/)
+
+---
+
 ### 💸 Donate
 - [BTC Pay Server](https://bitcoin-network-nyc.com/)
 - [Venmo (@harrisonfriedes)](https://account.venmo.com/u/harrisonfriedes)
@@ -37,7 +43,6 @@ We host hands-on workshops, technical deep dives, and community events designed 
 
 ---
 
-### 📚 Coming Soon
-- Class materials and guides  
-- Workshop resources  
-- Open-source repos for the Bitcoin NYC community
+### 🧱 Repositories
+- [btcnyc.github.io](https://github.com/btcnyc/btcnyc.github.io) — Public website, event listings, and community updates.
+- [classes](https://github.com/btcnyc/classes) — Lesson plans, workshop materials, and documentation site.
