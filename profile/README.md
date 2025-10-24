@@ -44,5 +44,6 @@ We host hands-on workshops, technical deep dives, and community events designed 
 ---
 
 ### 🧱 Repositories
+- [.github](https://github.com/btcnyc/.github) — Org-level profile, planning board, and shared issue tracker.
 - [btcnyc.github.io](https://github.com/btcnyc/btcnyc.github.io) — Public website, event listings, and community updates.
 - [classes](https://github.com/btcnyc/classes) — Lesson plans, workshop materials, and documentation site.
